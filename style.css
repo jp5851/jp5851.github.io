@@ -1,0 +1,16 @@
+header {
+  height: 75px;
+  background: lightslategrey;
+  text-align: center;
+  color: ;
+  
+}
+body {
+  background: lightgray;
+} 
+  img{
+    height: 150px;
+    border: 3px solid gray;
+    float: right;
+    margin-left: 20px;
+  }
